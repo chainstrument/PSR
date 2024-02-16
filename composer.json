@@ -11,5 +11,7 @@
             "email": "minitutoriel@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/cache": "^5.4"
+    }
 }

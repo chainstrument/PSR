@@ -1,0 +1,15 @@
+{
+    "name": "c/psr",
+    "autoload": {
+        "psr-4": {
+            "C\\Psr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chahir",
+            "email": "minitutoriel@gmail.com"
+        }
+    ],
+    "require": {}
+}
